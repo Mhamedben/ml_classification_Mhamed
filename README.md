@@ -1,5 +1,28 @@
 # Midterm: Classification Analysis: Heart Disease Prediction**Author:** Mhamed  
 **Date:** 04, 05, 2025 
+
+
+## Project Files:
+* [Dataset: Heart_Disease.csv] (https://github.com/Mhamedben/ml_classification_Mhamed/blob/main/Data/Heart_Disease.csv)
+
+* [Jupyter Notebook: Mid_Heart_Disease_Mhamed.ipynb] (https://github.com/Mhamedben/ml_classification_Mhamed/blob/main/Mid_Heart_Disease_Mhamed.ipynb)
+
+* [Peer Review: peer_review.md] (AAAAAA)
+
+## Instructions on how to set up your virtual environment and run your notebook locally:
+
+To run this notebook on your own computer: 
+1. Clone the Repository:
+
+git clone https://github.com/Mhamedben/ml_classification_Mhamed/blob/main/Mid_Heart_Disease_Mhamed.ipynb
+cd C:\Projects\ml_classification_Mhamed
+
+2. Create a Virtual Environment:
+python -m venv .venv
+
+3. Activate the Virtual Environment:
+For windows: .\.venv\Scripts\activate
+On macOS/Linux: .venv/bin/activate
  
 ## Introduction
 The objective of this classification analysis was to apply classification modeling techniques to predict heart disease risk using a dataset with various patient features, including age, sex, blood pressure, cholesterol levels, and more. The aim was to develop a machine learning model capable of accurately classifying whether a patient is likely to have heart disease based on these features. 
