@@ -7,7 +7,7 @@
 
 * [Jupyter Notebook: Mid_Heart_Disease_Mhamed.ipynb] (https://github.com/Mhamedben/ml_classification_Mhamed/blob/main/Mid_Heart_Disease_Mhamed.ipynb)
 
-* [Peer Review: peer_review.md] (AAAAAA)
+* [Peer Review: peer_review.md] (https://github.com/Elen-tesfai/elen-midterm/blob/main/peer_review.md)
 
 ## Instructions on how to set up your virtual environment and run your notebook locally:
 
